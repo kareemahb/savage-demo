@@ -6,6 +6,8 @@ Built with Node.js, Express, MongoDB, and EJS.
 
 🔗 **Live Demo:** [savage-demo-ynbk.onrender.com](https://savage-demo-ynbk.onrender.com)
 
+![alt text](image.png)
+
 ## ✨ Features
 
 - **Create**: post a message with your name and a topic
